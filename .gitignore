@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+
+# Interviewer-only — keep guide & solution out of the candidate's repo
+INTERVIEWER-GUIDE.md
+src/*.solution.tsx
